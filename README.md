@@ -1,8 +1,22 @@
-# React + Vite
+### DesafioFront end com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Neste desafio foi desenvolvido uma aplicação utilizando React, como o tema de criação de avaliação de filmes assistidos.
+Abaixo podemos ver imagens das páginas da aplicação.
 
-Currently, two official plugins are available:
+# Página de login
+![Página de login](/src/assets/image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Página de sign in
+![Página de sign in](/src/assets/image-1.png)
+
+# Página inicial
+![Página inicial](/src/assets/image-2.png)
+
+# Página de criação de notas
+![Página de criação de notas](/src/assets/image-3.png)
+
+# Página da nota
+![Página da nota](/src/assets/image-4.png)
+
+# Página do perfil
+![Página do perfil](/src/assets/image-5.png)
