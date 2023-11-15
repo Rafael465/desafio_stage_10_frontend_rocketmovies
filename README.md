@@ -20,3 +20,4 @@ Abaixo podemos ver imagens das páginas da aplicação.
 
 ### Página do perfil
 ![Página do perfil](/src/assets/image-5.png)# desafio_stage_10_frontend_rocketmovies
+# desafio_stage_10_frontend_rocketmovies
